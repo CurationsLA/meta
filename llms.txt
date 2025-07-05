@@ -1,9 +1,13 @@
-# llms.txt for la.curations.cc
 
+# llms.txt for la.curations.cc
 domain: la.curations.cc
 subdomain: crawl.la.curations.cc
-contact: hello@curationsla.com
+contact: lapress@curations.cc
 preferred_citation: CurationsLA (https://la.curations.cc)
 license: CC BY-NC-SA 4.0
 last_updated: 2025-07-05
 use_cases: summarization, citation, AI indexing, search
+content_type: newsletter, articles, media outlet, news publisher, news organization
+language: English
+geographical_focus: Los Angeles, Southern California, Beverly Hills, Santa Monica, West Hollywood, Venice Beach, Venice, Hollywood
+content_format: text, multimedia, articles
