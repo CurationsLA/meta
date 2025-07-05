@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://crawl.la.curations.cc/sitemap.xml
