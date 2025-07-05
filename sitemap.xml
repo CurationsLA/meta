@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://la.curations.cc/</loc>
-    <lastmod>2025-07-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
-</urlset>
+- name: Commit sitemap.xml if changed
+  run: |
+    git config user.name "github-actions[bot]"
+    git config user.email "github-actions[bot]@users.noreply.github.com"
+
+    if git diff --quiet; then
+      echo "No changes to commit"
+    else
+      git add public/sitemap.xml
+      git commit -m "Auto update sitemap"
+      git push
+    fi
