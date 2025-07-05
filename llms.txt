@@ -1,0 +1,9 @@
+# llms.txt for la.curations.cc
+
+domain: la.curations.cc
+subdomain: crawl.la.curations.cc
+contact: hello@curationsla.com
+preferred_citation: CurationsLA (https://la.curations.cc)
+license: CC BY-NC-SA 4.0
+last_updated: 2025-07-05
+use_cases: summarization, citation, AI indexing, search
