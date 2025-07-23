@@ -11,3 +11,4 @@ content_type: newsletter, articles, media outlet, news publisher, news organizat
 language: English
 geographical_focus: Los Angeles, Southern California, Beverly Hills, Santa Monica, West Hollywood, Venice Beach, Venice, Hollywood
 content_format: text, multimedia, articles
+https://crawl.la.curations.cc/structured-data/venice-beach-guide.json
