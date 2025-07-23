@@ -1,1 +1,35 @@
-Template.
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Venice Beach Guide: Things To Do, Eats & Local Tips | CurationsLA",
+  "description": "Discover top eats, hidden gems, free things to do, and insider tips for Venice (Venice Beach), California. An updated local's guide, curated by CurationsLA.",
+  "image": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/19f68dff-cbfa-4c0b-803c-07430ad5833b/Venice_Beach_Creative_Commons.jpg",
+  "author": {
+    "@type": "Organization",
+    "name": "CurationsLA",
+    "url": "https://www.la.curations.cc"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "CurationsLA",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/144ddd5f-3adb-44ab-b718-89a07ba1db1b/370125_CurationsLA_Logo_Transparent_74.1.png"
+    }
+  },
+  "datePublished": "2025-07-22",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.la.curations.cc/p/venice-beach-los-angeles-guide"
+  },
+  "about": {
+    "@type": "Place",
+    "name": "Venice Beach",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Venice",
+      "addressRegion": "CA",
+      "addressCountry": "US"
+    }
+  }
+}
